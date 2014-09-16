@@ -1,0 +1,4 @@
+gereji-vagrant
+==============
+
+vagrant up
